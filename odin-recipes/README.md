@@ -9,3 +9,4 @@ Skills:
     2. Linking pages
         a. realtive linking between the landing page and the recipe page
         b. used the tag 'rel="noreferrer"'as a good practice for saftey reasons
+        
